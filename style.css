@@ -50,7 +50,7 @@ body {
 
 .hero {
     background-color: var(--hero-blue);
-    background-image: url(./assests/desktop/image-header.jpg);
+    background-image: url(assests/desktop/image-header.jpg);
     background-position: bottom center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -226,11 +226,11 @@ body {
 
 
 .image-egg {
-    background-image: url(./assests/desktop/image-transform.jpg);
+    background-image: url(assests/desktop/image-transform.jpg);
 }
 
 .image-cup {
-    background-image: url(./assests/desktop/image-stand-out.jpg);
+    background-image: url(assests/desktop/image-stand-out.jpg);
 }
 
 
@@ -260,12 +260,12 @@ body {
 }
 
 .graphic-design {
-    background-image: url(./assests/desktop/image-graphic-design.jpg);
+    background-image: url(assests/desktop/image-graphic-design.jpg);
     color: var(--dark-desaturated-cyan);
 }
 
 .photography {
-    background-image: url(./assests/desktop/image-photography.jpg);
+    background-image: url(assests/desktop/image-photography.jpg);
     color: var(--dark-blue);
 }
 
@@ -344,19 +344,19 @@ body {
 }
 
 .img-1 {
-    background-image: url(./assests/desktop/image-gallery-milkbottles.jpg);
+    background-image: url(assests/desktop/image-gallery-milkbottles.jpg);
 }
 
 .img-2 {
-    background-image: url(./assests/desktop/image-gallery-orange.jpg);
+    background-image: url(assests/desktop/image-gallery-orange.jpg);
 }
 
 .img-3 {
-    background-image: url(./assests/desktop/image-gallery-cone.jpg);
+    background-image: url(assests/desktop/image-gallery-cone.jpg);
 }
 
 .img-4 {
-    background-image: url(./assests/desktop/image-gallery-sugarcubes.jpg);
+    background-image: url(assests/desktop/image-gallery-sugarcubes.jpg);
 }
 
 .gallery-img {
