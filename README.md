@@ -3,7 +3,10 @@ A responsive landing page for a creative agency built with HTML, CSS and JavaScr
 
 
 📸 Preview : 
-![Landing page](./preview/preview%20preview.jpg)
+![Landing Page](./preview/preview.jpg)
+
+🔗 Live Demo
+[View Live](#)
 
 🛠️ Built With : 
 
