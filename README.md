@@ -6,7 +6,7 @@ A responsive landing page for a creative agency built with HTML, CSS and JavaScr
 ![Landing Page](./preview/preview.jpg)
 
 🔗 Live Demo
-[View Live](#)
+[View Live](#https://mansityagi548.github.io/sunnyside-agency-landing-page-main/)
 
 🛠️ Built With : 
 
